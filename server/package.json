@@ -1,0 +1,14 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "Server for mock search application",
+  "main": "index.js",
+  "scripts": {
+    "server-dev": "node index.js"
+  },
+  "author": "atvo912",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
